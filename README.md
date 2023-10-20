@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio - for jss
+Portfolio - for jss student assingment
